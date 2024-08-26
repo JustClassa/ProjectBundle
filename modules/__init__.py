@@ -5,6 +5,7 @@ from .num_changereturn import proj_change_return
 from .num_creditcard import proj_cc_validator
 from .num_fib import proj_fibonacci
 from .num_happynumber import proj_happy_numbers
+from .num_pi import proj_pi
 from .num_primefactor import proj_prime_factor
 from .text_countvowels import proj_count_vowels
 from .text_countwords import proj_count_words

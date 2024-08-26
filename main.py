@@ -4,6 +4,7 @@ from src.title import title_screen
 
 
 FUNCTIONS = {
+    '1':  [md.proj_pi, 'Calculate Pi'],
     '3':  [md.proj_fibonacci, 'Fibonacci Sequence'],
     '4':  [md.proj_prime_factor, 'Prime Factorization'],
     '8':  [md.proj_change_return, 'Change Return'],

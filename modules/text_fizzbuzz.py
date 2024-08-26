@@ -20,7 +20,7 @@ def proj_fizz_buzz():
 
 
 
-def fizz_buzz(divisors: List[int] = [3, 5], strings: List[str] = ["Fizz", "Buzz"], array_length: int = 100) -> List[str, int]:
+def fizz_buzz(divisors: List[int] = [3, 5], strings: List[str] = ["Fizz", "Buzz"], array_length: int = 100) -> List:
     """
     FizzBuzz is a classic coding problem. This algorithm is an advanced fizz buzz creater
 
