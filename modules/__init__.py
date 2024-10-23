@@ -3,6 +3,7 @@ from .net_portscanner import proj_port_scanner
 from .num_bintodec import proj_bin_dec_converter
 from .num_changereturn import proj_change_return
 from .num_creditcard import proj_cc_validator
+from .num_fast_exponentiation import proj_fast_exponentiation
 from .num_fib import proj_fibonacci
 from .num_happynumber import proj_happy_numbers
 from .num_pi import proj_pi

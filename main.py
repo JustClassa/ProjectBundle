@@ -11,6 +11,7 @@ FUNCTIONS = {
     '9':  [md.proj_bin_dec_converter, 'Binary to Decimal and Back Converter'],
     '13': [md.proj_cc_validator, 'Credit Card Validator'],
     '17': [md.proj_happy_numbers, 'Happy Numbers'],
+    '21': [md.proj_fast_exponentiation, 'Fast Exponentiation'],
     '25': [md.proj_sieve_of_eratosthenes, 'Sieve of Eratosthenes'],
     '32': [md.proj_fizz_buzz, 'Fizz Buzz'],
     '33': [md.proj_reverse_string, 'Reverse String'],

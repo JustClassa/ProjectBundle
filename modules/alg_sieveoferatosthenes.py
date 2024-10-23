@@ -15,5 +15,4 @@ def sieve_of_eratosthenes(num):
                 primes[i] = False
         p += 1
 
-    
     return [i for i in range(2, num + 1) if primes[i]]
